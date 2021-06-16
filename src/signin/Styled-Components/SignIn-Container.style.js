@@ -1,0 +1,15 @@
+import styled from "styled-components";
+
+export const Container = styled.div`
+    max-width: 420px;
+    margin: 0 auto;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 30px 50px 10px 50px;
+    border: 1px solid #e1e0e0;
+    background-color: #fff;
+    font-size: 32px;
+    font-weight: 700;
+    border-radius: 10px;
+    text-align: center;
+`;
